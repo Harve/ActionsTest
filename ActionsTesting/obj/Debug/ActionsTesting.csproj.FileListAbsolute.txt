@@ -1,0 +1,17 @@
+C:\Users\Work\source\repos\ActionsTestProgram\ActionsTesting\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Work\source\repos\ActionsTestProgram\ActionsTesting\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Work\source\repos\ActionsTestProgram\ActionsTesting\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Work\source\repos\ActionsTestProgram\ActionsTesting\bin\Debug\ActionsTesting.dll
+C:\Users\Work\source\repos\ActionsTestProgram\ActionsTesting\bin\Debug\ActionsTesting.pdb
+C:\Users\Work\source\repos\ActionsTestProgram\ActionsTesting\bin\Debug\ActionsTestProgram.exe
+C:\Users\Work\source\repos\ActionsTestProgram\ActionsTesting\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Work\source\repos\ActionsTestProgram\ActionsTesting\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Work\source\repos\ActionsTestProgram\ActionsTesting\bin\Debug\ActionsTestProgram.pdb
+C:\Users\Work\source\repos\ActionsTestProgram\ActionsTesting\bin\Debug\ActionsTestProgram.exe.config
+C:\Users\Work\source\repos\ActionsTestProgram\ActionsTesting\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Work\source\repos\ActionsTestProgram\ActionsTesting\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Work\source\repos\ActionsTestProgram\ActionsTesting\obj\Debug\ActionsTesting.csproj.AssemblyReference.cache
+C:\Users\Work\source\repos\ActionsTestProgram\ActionsTesting\obj\Debug\ActionsTesting.csproj.CoreCompileInputs.cache
+C:\Users\Work\source\repos\ActionsTestProgram\ActionsTesting\obj\Debug\ActionsTesting.csproj.CopyComplete
+C:\Users\Work\source\repos\ActionsTestProgram\ActionsTesting\obj\Debug\ActionsTesting.dll
+C:\Users\Work\source\repos\ActionsTestProgram\ActionsTesting\obj\Debug\ActionsTesting.pdb

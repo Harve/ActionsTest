@@ -1,0 +1,7 @@
+C:\Users\Work\source\repos\ActionsTestProgram\ActionsTestProgram\bin\Debug\ActionsTestProgram.exe.config
+C:\Users\Work\source\repos\ActionsTestProgram\ActionsTestProgram\bin\Debug\ActionsTestProgram.exe
+C:\Users\Work\source\repos\ActionsTestProgram\ActionsTestProgram\bin\Debug\ActionsTestProgram.pdb
+C:\Users\Work\source\repos\ActionsTestProgram\ActionsTestProgram\obj\Debug\ActionsTestProgram.csproj.AssemblyReference.cache
+C:\Users\Work\source\repos\ActionsTestProgram\ActionsTestProgram\obj\Debug\ActionsTestProgram.csproj.CoreCompileInputs.cache
+C:\Users\Work\source\repos\ActionsTestProgram\ActionsTestProgram\obj\Debug\ActionsTestProgram.exe
+C:\Users\Work\source\repos\ActionsTestProgram\ActionsTestProgram\obj\Debug\ActionsTestProgram.pdb
