@@ -20,10 +20,15 @@ jobs:
     - name: Setup NuGet
       uses: NuGet/setup-nuget@v1.0.6
       
-    - name: Restore NuGet
-      run: dotnet restore
+    #- name: Restore NuGet
+    #  run: dotnet restore
       
     - name: Build
       run: dotnet msbuild 
+
+    - name: Setup VSTest.exe
+      uses: Malcolmnixon/Setup-VSTest@v4
       
+    - name: VSTest
+      run: vstest.console ActionsTesting\bin\Debug\ActionsTesting.dll
     
