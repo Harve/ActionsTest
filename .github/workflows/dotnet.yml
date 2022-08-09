@@ -1,0 +1,29 @@
+name: .NET
+
+on:
+  push:
+    branches: [ "main" ]
+  pull_request:
+    branches: [ "main" ]
+
+jobs:
+  build:
+
+    runs-on: [windows-latest]
+
+    steps:
+    - uses: actions/checkout@v3
+    
+    - name: Setup MSBuild
+      uses: actions/setup-msbuild@v1
+      
+    - name: Setup NuGet
+      uses: actions/setup-nuget@v1.0.2
+      
+    - name: Restore NuGet
+      run: dotnet restore
+      
+    - name: Build
+      run: dotnet msbuild 
+      
+    
